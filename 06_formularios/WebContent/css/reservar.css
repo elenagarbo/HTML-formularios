@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+header, img#fotohotel {
+	display: block;
+	float: right;
+	width: 300px;
+	float: right;
+}
+
+img#fotologo {
+	display: block;
+	width: 150px;
+}
+
+div {
+	display: bloc;
+	border: 1px solid black;
+}
+
+div#logo {
+	width: 33%;
+	float: left;
+}
+
+div#titulo {
+	width:66%;
+	float: right;
+}
+
+label, input {
+	display: block;
+}
+
+section {
+	margin: auto;
+}
